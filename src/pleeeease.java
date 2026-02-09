@@ -4,6 +4,7 @@ public class pleeeease {
         System.out.println(pLEEEASE(1));
     }
     public static int pLEEEASE(int x){
+        x+=1;
         return x+1;
     }
 }
