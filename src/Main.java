@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Worlds!");
-        System.out.println("Plural??");
+        System.out.println("Hello Worlds, plural!");
     }
 }
